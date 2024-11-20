@@ -12,4 +12,4 @@ my fresh approach will add value to your projects.
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="React" width="45px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
+<img align="left" alt="React" width="42px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
