@@ -6,7 +6,7 @@ thrive in this role. I am eager to bring my unique perspective
 and dedication to your organization, and I am confident that
 my fresh approach will add value to your projects.
 
-
+#
 
 ### 🧰 Languages and Tools
 
@@ -19,8 +19,7 @@ my fresh approach will add value to your projects.
 
 
 #
-#
-#
+
 
 ### 📊 Stats
 
