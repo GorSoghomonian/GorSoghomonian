@@ -30,6 +30,8 @@ my fresh approach will add value to your projects.
   &nbsp;&nbsp;&nbsp;
   <img alt="SASS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg" />
   &nbsp;&nbsp;&nbsp;
+  <img alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" />
+  &nbsp;&nbsp;&nbsp;
   <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
@@ -39,4 +41,4 @@ my fresh approach will add value to your projects.
 
 ### 📊 Stats
 
-![Gor's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorSoghomonian&show_icons=true&theme=gruvbox)
+![Gor's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorSoghomonian&show_icons=true&theme=highcontrast)
