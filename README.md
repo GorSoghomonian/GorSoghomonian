@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-My commitment to continuous learning and my passion for
-front-end development will allow me to quickly adapt and
-thrive in this role. I am eager to bring my unique perspective
-and dedication to your organization, and I am confident that
-my fresh approach will add value to your projects.
 
 ---
 
